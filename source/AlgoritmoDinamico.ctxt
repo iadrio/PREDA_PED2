@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=AlgoritmoDinamico
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AlgoritmoDinamico\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=rutaIn\ rutaOut\ activo
+comment1.target=AlgoritmoDinamico(java.lang.String,\ java.lang.String,\ java.lang.Boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ AlgoritmoDinamico\r\n
+comment2.params=i\ j
+comment2.target=int\ fill(int,\ int)
+comment3.params=
+comment3.target=void\ fillMatrix()
+comment4.params=matrix
+comment4.target=void\ printMatrix(Matrix)
+comment5.params=
+comment5.target=int\ getResult()
+comment6.params=
+comment6.target=void\ getOperations()
+comment7.params=i\ j\ sol\ soluciones
+comment7.target=java.util.ArrayList\ getOperationsAux(java.lang.Integer,\ java.lang.Integer,\ Solucion,\ java.util.ArrayList)
+comment8.params=sol
+comment8.target=void\ printer(java.util.ArrayList)
+comment9.params=sol
+comment9.target=void\ solPrinter(Solucion)
+numComments=10
